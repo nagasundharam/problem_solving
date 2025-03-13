@@ -3,10 +3,7 @@ import java.util.Arrays;
 public class RowColMatrix {
     public static void main(String a[]){
         int[][] arr = {
-            {10,20,30,40},
-            {13,23,33,43},
-            {18,27,37,49},
-            {19,29,39,50}
+           {18,21,27,38,55,67}
         };
 
         System.out.print(Arrays.toString(binarySearch(arr,33)));
