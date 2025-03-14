@@ -1,4 +1,4 @@
-class Solution {
+class missingNuber2 {
     public int missingNumber(int[] nums) {
         int n = nums.length;
 
@@ -33,3 +33,4 @@ class Solution {
         nums[start] = nums[end];
         nums[end] = temp;
     }
+}
