@@ -3,7 +3,6 @@ import java.util.Arrays;
 public class checkIfPangaram {
 
     public boolean checkIfPangram(String sentence) {
-
         int[] a = new int[26];
         int n = sentence.length();
 
