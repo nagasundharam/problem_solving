@@ -19,7 +19,7 @@ class Solution {
 
         y =  root;
     }
-       return  (int) root ;
+       return   root ;
 
        
 
